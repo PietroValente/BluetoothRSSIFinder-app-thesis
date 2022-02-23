@@ -16,3 +16,6 @@
 </p>
 
 ## Technical specifications
+
+* Android 9.0 (Pie)
+* Phone used: Huawei Mate 20
