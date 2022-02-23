@@ -1,1 +1,1 @@
-# BluetoothFinder-app-thesis
+# BluetoothFinder app
