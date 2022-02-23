@@ -16,6 +16,7 @@ It works in two screens: in the first, the user must select the device for which
     &nbsp;
         <a href="https://github.com/pietrovalente/BluetoothRSSIFinder-app-thesis/blob/main/images/measurements.png"><img src="https://github.com/pietrovalente/BluetoothRSSIFinder-app-thesis/blob/main/images/measurements.png" alt="" width="200px"></a>
 </p>
+&nbsp;
 
 ## Technical specifications
 
