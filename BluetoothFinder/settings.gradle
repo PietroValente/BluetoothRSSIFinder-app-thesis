@@ -1,4 +1,0 @@
-include ':poi-5.0.0'
-include ':poi-ooxml-full-5.0.0'
-include ':app'
-rootProject.name = "Bluetooth Finder"
