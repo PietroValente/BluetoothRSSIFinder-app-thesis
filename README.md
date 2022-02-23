@@ -1,1 +1,1 @@
-# BluetoothFinder app
+# BluetoothRSSIFinder app
