@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth Finder</string>
+    <string name="search">Search</string>
+    <string name="stop">Stop</string>
+    <string name="searching">Searching…</string>
+    <string name="finished">Finished!</string>
+</resources>
